@@ -1,6 +1,6 @@
 # GroundStation
 [BETA] Ground Station By Redcomet Created at 9/8/2023
-## ------------------------- HOW TO USE GROUND STATION By Redcomet -------------------------
+## HOW TO USE
 **Follow Me Step by Step**
 1. Open Visual Studio Code
 2. Run file requirement_rcm.txt that is module by "pip install requirement_rcm.txt"
